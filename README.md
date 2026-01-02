@@ -1,6 +1,6 @@
 # 🤖 Investor Relations Chatbot
 
-An **AI-powered Investor Relations Chatbot** built with **Python & Flask** that answers company-related questions using document ingestion and retrieval. This project demonstrates practical skills in backend development, NLP workflows, and API design — suitable for **internship and entry-level roles**.
+An **AI-powered Investor Relations Chatbot** built with **Python & Flask** that answers company-related questions using document ingestion and retrieval. This project demonstrates practical skills in backend development, NLP workflows, and API design.
 
 ---
 
@@ -85,7 +85,7 @@ Type 'exit' to quit
 
 ---
 
-## 🎯 Why This Project is Internship-Ready
+## 🎯 Why This Project Is Industery Ready?
 
 * ✅ Uses real-world backend patterns
 * ✅ Demonstrates Git & clean commits
